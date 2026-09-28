@@ -58,7 +58,7 @@ An **Electronic Trial Master File (eTMF)** is a specialized content management s
 
 Fully validated, 21 CFR Part 11 compliant eTMF platforms require substantial GxP validation. However, open-source building blocks, reference architectures, and document storage libraries are available for research and technical integration:
 
-| Repository / Project | Stars Badge | Description & Scope |
+| Repository / Project | Stars_Badge | Description & Scope |
 | :--- | :--- | :--- |
 | **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** 📄 | [<img src="https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white" alt="Stars"/>](https://github.com/paperless-ngx/paperless-ngx/stargazers) | Open-source document management system with OCR, tagging, metadata indexing, and API interfaces (adaptable for document ingestion). |
 | **[mayan-edms/mayan-edms](https://github.com/mayan-edms/mayan-edms)** 🗄️ | [<img src="https://img.shields.io/github/stars/mayan-edms/mayan-edms?style=social&color=white" alt="Stars"/>](https://github.com/mayan-edms/mayan-edms/stargazers) | Free open-source Electronic Document Management System (EDMS) featuring access control, document versioning, and cryptographic checksums. |
